@@ -64,7 +64,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" width="88%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="100" />
 
 </div>
 
