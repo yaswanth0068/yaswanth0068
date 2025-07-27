@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Yaswanth!
 
 I'm a Final Year Computer Science Student from **Narasaraopeta Engineering College**, Andhra Pradesh 🇮🇳  
-Fully focused on becoming a **Data Scientist**.
+Fully focused on becoming a **Data Scientist** — nothing else, no distractions.
 
 ---
 
@@ -37,11 +37,7 @@ Fully focused on becoming a **Data Scientist**.
 
 ---
 
-### 📊 GitHub Stats
 
-![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent)
-
----
 
 ### 📫 Reach Out
 
