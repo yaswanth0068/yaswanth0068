@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&column=7&margin-w=10&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&column=8&margin-w=10&no-frame=true)
 
 </div>
 
