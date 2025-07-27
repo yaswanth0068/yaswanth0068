@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/yaswanth0068/yaswanth0068/assets/your-banner-image-link" alt="Yaswanth - Data Science Banner" width="100%" />
+</p>
+
 ## 👋 Hey, I'm Yaswanth!
 
 🎓 Final Year CSE Student at **Narasaraopeta Engineering College**, Andhra Pradesh 🇮🇳  
@@ -74,3 +78,20 @@
 ---
 
 > _“Not perfect at anything, but hungry to master **Data Science**.”_ 🧠⚡
+
+### 🧰 My Favorite Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yaswanth0068&label=Profile%20Views&color=0e75b6&style=flat" alt="Yaswanth's GitHub Views" />
+</p>
