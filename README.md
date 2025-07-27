@@ -45,28 +45,19 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<!-- Using Gruvbox theme for better visibility -->
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=gruvbox&no-frame=true&margin-w=20&title=commits,repositories,years" width="90%" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=radical&no-frame=true&title=commits,repositories,years&margin-w=30" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Slightly smaller sizes with same aspect ratio -->
-<img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" width="43%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" width="43%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" width="88%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" height="170"/>
+</p>
 
 ---
 
