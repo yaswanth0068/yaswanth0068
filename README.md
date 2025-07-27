@@ -47,9 +47,8 @@
 
 <div align="center">
 
-![Commits](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=flat&title=commits&margin-w=25)
-![Repositories](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=flat&title=repositories&margin-w=25)
-![Years](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=flat&title=years&margin-w=25)
+<!-- Using Gruvbox theme for better visibility -->
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=gruvbox&no-frame=true&margin-w=20&title=commits,repositories,years" width="90%" />
 
 </div>
 
@@ -59,12 +58,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" width="48%" />
+<!-- Slightly smaller sizes with same aspect ratio -->
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" width="43%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" width="43%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" width="88%" />
 
 </div>
 
