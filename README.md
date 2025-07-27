@@ -47,8 +47,7 @@
 
 <div align="center">
 
-<!-- Using Gruvbox theme for better visibility -->
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=gruvbox&no-frame=true&margin-w=20&title=commits,repositories,years" width="90%" />
+![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&column=7&margin-w=10&no-frame=true)
 
 </div>
 
