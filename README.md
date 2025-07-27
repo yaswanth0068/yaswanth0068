@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yaswanth0068/yaswanth0068/assets/your-banner-image-link" alt="Yaswanth - Data Science Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGNN-7NEsCNyQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdprMPOGQAk-/0/1749824620457?e=1756339200&v=beta&t=dq3qNDnB94l_NzU_uK781cSykds4NzxiMHfeZO98ugI" width="100%" />
 </p>
 
 ## 👋 Hey, I'm Yaswanth!
