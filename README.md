@@ -47,7 +47,9 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&column=7&margin-w=10&no-frame=true)
+![Trophy Commits](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&no-frame=true&no-bg=true&margin-w=25&title=commits)
+![Trophy Repositories](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&no-frame=true&no-bg=true&margin-w=25&title=repositories)
+![Trophy Experience](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&no-frame=true&no-bg=true&margin-w=25&title=years)
 
 </div>
 
@@ -57,9 +59,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent" alt="Yaswanth's GitHub Stats" width="49.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" alt="Top Languages" width="49.5%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" alt="GitHub Streak" width="99%" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" alt="Stats" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" alt="Top Languages" width="300"/></td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" alt="Streak Stats" width="710"/>
 
 </div>
 
