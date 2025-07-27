@@ -45,19 +45,19 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=radical&no-frame=true&title=commits,repositories,years&margin-w=30" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onedark&title=commits,repositories,years&margin-w=30)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" height="170"/>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" height="160"/>
+
+</div>
 
 ---
 
