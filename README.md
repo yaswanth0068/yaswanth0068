@@ -57,10 +57,10 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" height="100"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent&hide_rank=true" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" height="120"/>
 
 </div>
 
