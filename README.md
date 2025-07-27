@@ -39,7 +39,7 @@ Fully focused on becoming a **Data Scientist** — nothing else, no distractions
 
 ### 📊 GitHub Stats
 
-![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true)
+![Yaswanth's GitHub Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent))
 
 ---
 
