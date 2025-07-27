@@ -1,54 +1,76 @@
-## 👋 Hi there, I'm Yaswanth!
+## 👋 Hey, I'm Yaswanth!
 
-I'm a Final Year Computer Science Student from **Narasaraopeta Engineering College**, Andhra Pradesh 🇮🇳  
-Fully focused on becoming a **Data Scientist** — nothing else, no distractions.
-
----
-
-### 🧠 About Me
-
-- 🎯 **My one and only goal:** Data Science
-- 📊 I love working with data — analyzing it, visualizing it, and making sense out of it
-- 🧪 Currently diving deep into **Machine Learning**, **Deep Learning**, and **Real-World Data Projects**
-- 🚀 I'm building real-time, intelligent systems using tools like **PyTorch**, **YOLO**, and **Power BI**
-- 📚 Always learning and trying to get 1% better every day
+🎓 Final Year CSE Student at **Narasaraopeta Engineering College**, Andhra Pradesh 🇮🇳  
+🎯 On a mission to become a **Top-Tier Data Scientist** — building intelligent systems from data.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-- **Languages**: Python, SQL, C
-- **Data Tools**: Pandas, NumPy, Matplotlib, Scikit-Learn, Power BI
-- **ML/DL**: TensorFlow, PyTorch, OpenCV, YOLO, Transformers (BERT, RoBERTa)
-- **Database**: SQLite, MongoDB
-- **Others**: Git, Jupyter Notebook, Google Colab
-
----
-
-### 📂 Featured Projects
-
-- 🔥 **Fire & Smoke Detection** using YOLO-HF + Real-time Alerts  
-- 🧑‍🏫 **AI-Powered Personalized Tutor System** with Adaptive Learning  
-- 🕵️‍♂️ **Online Recruitment Fraud Detection** using BERT and SMOTE  
-- 📊 **IPL Insights Dashboard** with DAX and Power BI  
-- 🧪 More on the way — always experimenting with datasets & models
-
-> Explore all my work here 👉 [GitHub Projects](https://github.com/yaswanth0068)
+- 🔍 Exploring **Machine Learning**, **Deep Learning**, and **Data Analytics**
+- 🧪 Passionate about turning messy data into useful insights
+- 💻 Building real-time, intelligent systems that actually work
+- 📚 Always learning & improving — one dataset at a time
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Yaswanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent)
+### 👨‍💻 Programming & Scripting  
+`Python` | `SQL` | `C` | `Markdown`
+
+### 📊 Data & Visualization  
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Power BI`
+
+### 🤖 Machine Learning / Deep Learning  
+`Scikit-learn` | `PyTorch` | `TensorFlow` | `OpenCV` | `YOLO` | `Transformers (BERT, RoBERTa)`
+
+### 🗃️ Databases & Tools  
+`MongoDB` | `SQLite` | `Jupyter Notebook` | `Google Colab` | `Git` | `VS Code`
 
 ---
 
-### 📫 Reach Out
+## 📂 Highlight Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yaswanthgunda0068/)
-- 📬 Email: yaswanthgunda12345@gmail.com
+| Project | Description |
+|--------|-------------|
+| 🔥 **Fire & Smoke Detection** | YOLO-HF based model with real-time alerts (image + email + call) |
+| 🧑‍🏫 **AI-Powered Tutor System** | Personalized learning paths based on assessments |
+| 🕵️ **Recruitment Fraud Detection** | Identifying fake job listings using BERT and SMOTE |
+| 📊 **IPL Insights Dashboard** | Power BI dashboard for interactive IPL data visualization |
+
+🔗 *Explore all projects:* [github.com/yaswanth0068](https://github.com/yaswanth0068)
 
 ---
 
-> “I’m not perfect at anything, but I’m curious and hungry to master **Data Science**.” 🔁
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yaswanth0068&theme=onestar&column=7&margin-w=10&no-frame=true)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanth0068&show_icons=true&theme=transparent" alt="Yaswanth's GitHub Stats" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth0068&layout=compact&theme=transparent" alt="Top Languages" width="49.5%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanth0068&theme=transparent" alt="GitHub Streak" width="99%" />
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+- 📫 Email: [yaswanthgunda12345@gmail.com](mailto:yaswanthgunda12345@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yaswanthgunda0068/)
+- 🖥️ [GitHub](https://github.com/yaswanth0068)
+
+---
+
+> _“Not perfect at anything, but hungry to master **Data Science**.”_ 🧠⚡
