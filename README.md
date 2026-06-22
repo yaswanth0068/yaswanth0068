@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGNN-7NEsCNyQ/profile-displaybackgroundimage-shrink_350_1400/B56ZdprMPOGQAk-/0/1749824620457?e=1770249600&v=beta&t=g9V9hhCwQu7ENcryb_VS2B8BbS-5kQ0vc6Fm53DDiNg" width="100%" />
+  <img src="https://res.cloudinary.com/dfl09yw03/image/upload/v1782156536/5_srsypm.png" width="100%" />
 </p>
 
 ## 👋 Hey, I'm Yaswanth!
